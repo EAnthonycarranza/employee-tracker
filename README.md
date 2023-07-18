@@ -19,7 +19,7 @@ This command-line application allows you to manage a company's employee database
 
 1. Clone the repository:
 
-git clone https://github.com/EAnthonycarranza/employee-tracker.git
+``` git clone https://github.com/EAnthonycarranza/employee-tracker.git ```
 
 2. Install the required dependencies:
 
