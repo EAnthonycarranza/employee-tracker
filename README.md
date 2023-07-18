@@ -97,10 +97,6 @@ A video demonstration of the application's functionality can be found at the fol
 
 [Link to Video](insert_youtube_video_link_here)
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please create a new issue or submit a pull request.
-
 ## License
 
 [MIT License](LICENSE)
