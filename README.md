@@ -11,7 +11,6 @@ This command-line application allows you to manage a company's employee database
 - [Database Schema](#database-schema)
 - [Functionality](#functionality)
 - [Walkthrough Video](#walkthrough-video)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
