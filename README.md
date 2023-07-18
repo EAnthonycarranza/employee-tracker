@@ -25,9 +25,9 @@ git clone https://github.com/EAnthonycarranza/employee-tracker.git
 
 cd employee-tracker
 
-npm install
+```npm install```
 
-npm install inquirer
+```npm install inquirer```
 
 3. Set up the database:
 
