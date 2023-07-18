@@ -8,6 +8,7 @@ This command-line application allows you to manage a company's employee database
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Technologies Used](#technologies-used)
 - [Database Schema](#database-schema)
 - [Functionality](#functionality)
 - [Walkthrough Video](#walkthrough-video)
@@ -22,7 +23,10 @@ git clone https://github.com/EAnthonycarranza/employee-tracker.git
 2. Install the required dependencies:
 
 cd employee-tracker
+
 npm install
+
+npm install inquirer
 
 3. Set up the database:
 
@@ -55,6 +59,15 @@ node index.js
 ## Usage
 
 Follow the prompts in the command line to interact with the application. Use the arrow keys to navigate and select options.
+
+## Technologies Used
+
+The application is built using the following technologies:
+
+- [Node.js](https://nodejs.org/): A JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Inquirer](https://www.npmjs.com/package/inquirer): A command-line interface for collecting user input.
+- [MySQL](https://www.mysql.com/): An open-source relational database management system.
+- [MySQL2](https://www.npmjs.com/package/mysql2): A MySQL client for Node.js that supports Promises and async/await.
 
 ## Database Schema
 
