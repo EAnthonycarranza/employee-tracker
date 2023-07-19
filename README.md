@@ -24,6 +24,7 @@ This command-line application allows you to manage a company's employee database
 ```shell
 cd repository
 npm install
+npm install inquirer
 ```
 3. Set up the database:
 
