@@ -11,6 +11,7 @@ This command-line application allows you to manage a company's employee database
 - [Technologies Used](#technologies-used)
 - [Database Schema](#database-schema)
 - [Functionality](#functionality)
+- [Walkthrough Video](#walkthrough-video)
 - [License](#license)
 
 ## Installation
@@ -90,6 +91,12 @@ The application provides the following functionality:
 7. Update an employee role: Prompts you to select an employee to update and their new role, and updates the information in the database.
 8. Delete: Allows you to delete a department, role, or employee from the database.
 9. Exit: Exits the application.
+
+## Walkthrough Video
+
+A video demonstration of the application's functionality can be found at the following link:
+
+[Link to Video](insert_youtube_video_link_here)
 
 ## License
 
