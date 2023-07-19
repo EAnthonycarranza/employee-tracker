@@ -22,7 +22,7 @@ This command-line application allows you to manage a company's employee database
 2. Install the required dependencies:
 
 ```shell
-cd repository
+cd employee-tracker
 npm install
 npm install inquirer
 ```
