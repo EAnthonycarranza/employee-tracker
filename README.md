@@ -96,7 +96,7 @@ The application provides the following functionality:
 
 A video demonstration of the application's functionality can be found at the following link:
 
-[Link to Video][[https://youtu.be/GHUOgAJSHPo]
+[Link to Video][[https://youtu.be/GHUOgAJSHPo]]
 
 ## License
 
